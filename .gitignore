@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.env.* 
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Python environment logs
+*.log
+
+# Chroma vector store
+db/
+
+# LangChain cached files or temporary data
+.cache/
+*.json
+*.pkl
+
+# Misc
+*.sqlite
+.ipynb_checkpoints/
