@@ -1,5 +1,3 @@
-# llama_model.py
-
 import requests
 
 def ask_ollama(prompt: str, model: str = "llama3") -> str:

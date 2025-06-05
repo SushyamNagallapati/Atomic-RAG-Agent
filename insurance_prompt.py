@@ -30,4 +30,5 @@ Now, answer the user query below based only on the document content.
 
 Question: {input}
 """
+
 )

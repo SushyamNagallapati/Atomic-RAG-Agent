@@ -1,5 +1,3 @@
-# atomic_pipeline.py
-
 from retriever import get_relevant_documents
 from llama_model import ask_ollama
 from insurance_prompt import INSURANCE_ASSISTANT_PROMPT
