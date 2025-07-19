@@ -3,7 +3,9 @@ from langchain.text_splitter import CharacterTextSplitter
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 
+
 import os
+
 
 # === Settings ===
 PDF_PATH = "data/scotia.pdf"  # 📝 Make sure this PDF exists
