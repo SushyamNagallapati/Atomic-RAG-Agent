@@ -8,6 +8,7 @@ import os
 
 
 # === Settings ===
+
 PDF_PATH = "data/scotia.pdf"  # 📝 Make sure this PDF exists
 CHROMA_DIR = "db"
 EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
